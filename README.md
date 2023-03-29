@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/amandaperch/project-trybe-ting/blob/main/img/TING_readme.png/>
+<img src="https://github.com/amandaperch/project-trybe-ting/blob/main/img/TING_readme.png"/>
 </p>
 
 ---
